@@ -1,0 +1,23 @@
+{
+  "pilot_subsample": {
+    "train": 1275,
+    "ood": 567,
+    "id": 480
+  },
+  "id": {
+    "n": 480,
+    "zeroshot_bacc": 0.73,
+    "probe_bacc": 0.943,
+    "probe_f1": 0.811,
+    "probe_acc": 0.929,
+    "auroc_mi": 0.545
+  },
+  "ood": {
+    "n": 567,
+    "zeroshot_bacc": 0.57,
+    "probe_bacc": 0.655,
+    "probe_f1": 0.644,
+    "probe_acc": 0.765,
+    "auroc_mi": 0.567
+  }
+}

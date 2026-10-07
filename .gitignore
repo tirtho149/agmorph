@@ -1,0 +1,21 @@
+# Large data / downloads
+dl/
+weights/
+seqcrops/
+patches/
+RUGD_annotations/
+
+# Large binaries / arrays
+*.npy
+*.npz
+*.zip
+*.bin
+
+# Generated artifacts / logs
+*.out
+*.log
+__pycache__/
+*.pyc
+
+# Full-size CSV dumps
+*.csv.full
